@@ -1,2 +1,2 @@
 
-# [Home](fatihardazengin.com)
+# [Home](/index)
