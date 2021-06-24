@@ -1,3 +1,3 @@
 
 # [Home](/)
-[google](google.com)
+[google2](https://google.com)
