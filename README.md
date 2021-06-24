@@ -1,7 +1,7 @@
 ### Hi there 👋
-### A CS student in Sabancı University
-### Co-founder at Lineware Tech
-### Blockchain and Cyber Security fancier
+- A CS student in Sabancı University
+- Co-founder at Lineware Tech
+- Blockchain and Cyber Security enthusiast
 
 <!--
 **fatihardazengin/fatihardazengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
