@@ -1,6 +1,6 @@
 # How to Install RTL8821CE Drivers On Fedora 34
 [Home Page](index.md)
-[Disclaimer](disclaimer.md)
+[Disclamier](disclamier.md)
 
 After Fedora 34 was installed if your pc has RTL8821ce Wifi card the OS can not use Wifi adaptor so you need to install the driver of the wifi card.
 
