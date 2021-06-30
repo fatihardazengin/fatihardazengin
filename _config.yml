@@ -2,4 +2,7 @@ theme: jekyll-theme-hacker
 title: Fatih Arda Zengin
 description: Fatih Arda Zengin blog page
 
+use_download_button: false
+
+
 google_analytics: UA-48315893-2 
