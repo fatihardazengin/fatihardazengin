@@ -1,3 +1,3 @@
 # Under Construction 🚚🚚🚚
 
-[Disclaimer](/disclaimer.md)
+[Disclaimer](disclaimer.md)
