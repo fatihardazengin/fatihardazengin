@@ -1,4 +1,4 @@
-# How to Install RTL8821CE Drivers On Fedora 34.
+# How to Install RTL8821CE Driver On Fedora 34.
 [Home Page](index.md)
 
 [Disclamier](disclamier.md)
