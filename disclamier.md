@@ -1,5 +1,7 @@
 <h1>Disclaimer for Fatih Arda Zengin Blog</h1>
 
+[Home Page](index.md)
+
 <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at fatihardazengin@gmail.com. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Disclaimer Generator</a>.</p>
 
 <h2>Disclaimers for Fatih Arda Zengin Blog</h2>
