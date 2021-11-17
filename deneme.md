@@ -1,1 +1,1 @@
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSoftW2ImLSjfuJ7p7ERFf0dx0fOzFdSTJuO9tGxFDIv_H6abKagQHaqTBAzj6BKkHUVToPnQDBEWwt/preview?pli=1></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSoftW2ImLSjfuJ7p7ERFf0dx0fOzFdSTJuO9tGxFDIv_H6abKagQHaqTBAzj6BKkHUVToPnQDBEWwt/pub?embedded=true" title="My Resume" width="100%" height="300" ></iframe>
