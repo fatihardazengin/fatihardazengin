@@ -1,12 +1,18 @@
-###Fatih Arda Zengin Personal Website.
+### Fatih Arda Zengin Personal Website.
 
-##Profiles
+## Profiles
 [LinkedIn](https://www.linkedin.com/in/fatihaz/)
+
 [GitHub](https://github.com/fatihardazengin)
+
 [Hackerrank](https://www.hackerrank.com/fatihardazengin?hr_r=1)
+
 [Credential](https://www.credential.net/profile/fatihardazengin355106/wallet)
+
 [Credly](https://credly.com/users/fatih-arda-zengin/badges)
+
 [Kaggle](https://www.kaggle.com/fatihardazengin)
+
 
 ## Blog Posts
 
