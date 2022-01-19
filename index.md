@@ -5,6 +5,8 @@
 
 [GitHub](https://github.com/fatihardazengin)
 
+[Google Cloud](https://www.cloudskillsboost.google/public_profiles/eafafa76-bad0-41fa-b091-1c9fc5ba3c33)
+
 [Hackerrank](https://www.hackerrank.com/fatihardazengin?hr_r=1)
 
 [Credential](https://www.credential.net/profile/fatihardazengin355106/wallet)
