@@ -1,0 +1,4 @@
+baseURL = 'https://fatihardazengin.com/'
+languageCode = 'en-us'
+title = 'Fatih Arda Zengin'
+theme = "aether"
